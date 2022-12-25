@@ -28,27 +28,27 @@ let numbers = [23, 34, 45, 56, 67];
 // console.log(typeof (numbers)); //type of array will be object 
 
 //method-1 -> toString()
-// let b = numbers.toString();
-// console.log(b);
-// console.log(typeof (b));
+let b = numbers.toString();
+console.log(b);
+console.log(typeof (b));
 
 //method-2 -> join()
-// let c = numbers.join("->");
-// console.log(c);
-// console.log(typeof (c));
+let c = numbers.join("->");
+console.log(c);
+console.log(typeof (c));
 
 //method-3 -> pop()
-// let d = numbers.pop();
-// console.log(d);
-// console.log(typeof(d));
-// console.log(numbers);
+let d = numbers.pop();
+console.log(d);
+console.log(typeof(d));
+console.log(numbers);
 
 
 //method-4 -> push()
-// let e = numbers.push(99);
-// console.log(e);
-// console.log(typeof(e));
-// console.log(numbers);
+let e = numbers.push(99);
+console.log(e);
+console.log(typeof(e));
+console.log(numbers);
 
 
 
