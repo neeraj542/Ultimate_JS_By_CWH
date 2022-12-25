@@ -24,16 +24,16 @@
 // code---2--- //strings
 
 
-// let name = "lorem23";
-// console.log(name.length);
-// console.log("Name: ",name);
+let name = "lorem23";
+console.log(name.length);
+console.log("Name: ",name);
 
-// console.log(name[0]," ",name[1]);
-// console.log(name[1]," ");
-// console.log(name[2]," ");
-// console.log(name[3]," ");
-// console.log(name[4]," ");
-// console.log(name[5]," ");
+console.log(name[0]," ",name[1]);
+console.log(name[1]," ");
+console.log(name[2]," ");
+console.log(name[3]," ");
+console.log(name[4]," ");
+console.log(name[5]," ");
 
 
 // code---2.i--- //template-literals
@@ -85,12 +85,12 @@
 // console.log(str.trim()); //triming the spaces which are in left-right sides in the string
 
 //using for loop to print a stirng with tab 
-// let str = "this world will totally robotic in 2030";
-// let str = "neeraj" + "kumar" + "meena";
-// let length = str.length;
-// for(let i=0; i<length; i++){
-//   console.log(str[i], "\t");
-// }
+let str = "this world will totally robotic in 2030";
+let str = "neeraj" + "kumar" + "meena";
+let length = str.length;
+for(let i=0; i<length; i++){
+  console.log(str[i], "\t");
+}
 
 //note: strings are immutable means that original strings cannot change
 
@@ -101,15 +101,15 @@
 
 
 //2
-// let str = "Man in black";
-// let newStr = "in";
-// console.log(str.includes(newStr));
+let str = "Man in black";
+let newStr = "in";
+console.log(str.includes(newStr));
 
-// if(str.includes(newStr)){
-//   console.log(`The "${newStr}" is available in the String.`);
-// }else{
-//   console.log(`The "${newStr} is not available in the String."`)
-// }
+if(str.includes(newStr)){
+  console.log(`The "${newStr}" is available in the String.`);
+}else{
+  console.log(`The "${newStr} is not available in the String."`)
+}
 
 
 //3
