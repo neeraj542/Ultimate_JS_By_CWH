@@ -23,7 +23,7 @@
 // 2. join()
 // 3. pop()
 
-let numbers = [23, 34, 45, 56, 67];
+// let numbers = [23, 34, 45, 56, 67];
 // console.log(numbers);
 // console.log(typeof (numbers)); //type of array will be object 
 
