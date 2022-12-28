@@ -9,6 +9,8 @@
 // // console.log("Result: ",marks[2]);
 
 // let length = marks.length;
+
+
 // console.log("Result of all subjects: ");
 // console.log("\n");
 // for(let i=0; i<length; i++){
