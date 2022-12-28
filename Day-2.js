@@ -2,7 +2,7 @@
 // let subsName = ["English", "Hindi", "Mathematics", "Social Study", "Sanskrit", "Science"];
 // let marks = [98, 69, 78, 93, 100, 79];
 // // console.log("Result: ",marks);
-
+//
 // // let absent = [null];
 // // console.log("Attendence of absents: ",absent);
 
